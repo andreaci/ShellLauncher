@@ -16,8 +16,8 @@ namespace ShellLauncher
 
             do
             {
-                string path = @"C:\Helios\exe\";
-                string exe = "Helios_RDP01.exe";
+                string path = @"exe_path\";
+                string exe = "***.exe";
 
                 if (args != null && args.Length == 1)
                 {
